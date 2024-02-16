@@ -3,6 +3,7 @@ package dto;
 import models.constants.VehicleType;
 
 public class TicketRequestDTO {
+    //ticket  request dto
     private int parkingLotId;
     private int gateId;
     private String number;

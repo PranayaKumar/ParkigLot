@@ -1,6 +1,7 @@
 package dto;
 
 public class TicketResponseDTO {
+    //ticket response dto
     private String entryTime;
     private String vehicleNumber;
     private int slotNumber;
